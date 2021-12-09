@@ -8,4 +8,4 @@
 
 Si el enlace al conjunto de datos completo no se aplica, proporcione información sobre cómo acceder al conjunto de datos completo.
 
-Si los datos permanecen en un almacenamiento de archivos de Azure, proporcione el enlace al archivo de texto con la información del almacenamiento de archivos que se ha registrado en el repositorio git.
+Si los datos permanecen en un Azure file storage, proporcione el link al archivo de texto con la información del almacenamiento de archivos que se ha registrado en el repositorio git.
