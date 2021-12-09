@@ -3,30 +3,30 @@ _Un reporte para proporcionar detalles sobre un experimento específico (modelo)
 
 Si corresponde, la utilidad Automated Modeling and Reporting desarrollada por el equipo de Microsoft TDSP se puede utilizar para generar reportes, que pueden proporcionar contenido para la mayoría de las secciones de este reporte del modelo.
 
-## Analytic Approach
-* What is target definition
-* What are inputs (description)
-* What kind of model was built?
+## Enfoque analítico
+* ¿Cual es la definición del target?
+* ¿Cuales son las entradas? (descripción)
+* ¿Qué tipo de modelo se construyó?
 
-## Model Description
-* Models and Parameters
-	* Description or images of data flow graph
-  		* if AzureML, link to:
-    		* Training experiment
-    		* Scoring workflow
-	* What learner(s) were used?
-	* Learner hyper-parameters
+## Descripción del modelo
+* Modelos y parámetros
+	* Descripción o imágenes del gráfico de flujo de datos
+	  * si es AzureML, link a:
+	    * Experimento de entrenamiento
+	    * Flujo de trabajo de puntuación
+	* ¿Qué aprendizajes se utilizaron?
+	* Hiperparámetros del aprendizaje
 
-## Results (Model Performance)
-* ROC/Lift charts, AUC, R^2, MAPE as appropriate
-* Performance graphs for parameters sweeps if applicable
+## Resultados (rendimiento del modelo)
+* Gráficos ROC/Lift, AUC, R^2, MAPE según corresponda
+* Gráficos de rendimiento para barridos de parámetros, si corresponde 
 
-## Model Understanding
-* Variable Importance (significance)
-* Insight Derived from the Model
+## Comprensión del modelo
+* Importancia variable (significación)
+* Conocimiento derivado del modelo
 
-## Conclusion and Discussions for Next Steps
-* Conclusion
-* Discussion on overfitting (if applicable)
-* What other Features Can Be Generated from the Current Data
-* What other Relevant Data Sources Are Available to Help the Modeling
+## Conclusión y discusiones para los próximos pasos
+* Conclusión
+* Discusión sobre sobreajuste (si corresponde)
+* ¿Qué otros features se pueden generar a partir de los datos actuales?
+* ¿Qué otras fuentes de datos relevantes están disponibles para ayudar al modelado? 
