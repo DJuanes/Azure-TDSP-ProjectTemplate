@@ -4,42 +4,40 @@ Este documento proporciona un hub para las fuentes de datos sin procesar, los da
 
 Para cada dato, se proporciona un reporte individual que describe el esquema de datos, el significado de cada campo y cualquier otra información que sea útil para comprender los datos. Si el dataset es la salida de datasets existentes de procesamiento/transformación/features, también se proporcionan los nombres de los datasets de entrada y los links a los scripts que se utilizan para realizar la operación.
 
-Cuando corresponde, la utilidad Interactive Data Exploration, Analysis, and Reporting (IDEAR) desarrollada por Microsoft se aplica para explorar y visualizar los datos y generar el reporte de datos. Las instrucciones sobre cómo utilizar IDEAR se pueden encontrar [aquí]().
+Cuando corresponde, la utilidad Interactive Data Exploration, Analysis, and Reporting (IDEAR) desarrollada por Microsoft se aplica para explorar y visualizar los datos y generar el reporte de datos.
 
-When applicable, the Interactive Data Exploration, Analysis, and Reporting (IDEAR) utility developed by Microsoft is applied to explore and visualize the data, and generate the data report. Instructions of how to use IDEAR can be found [here](). 
-
-For each dataset, the links to the sample datasets in the _**Data**_ directory are also provided. 
-
-_**For ease of modifying this report, placeholder links are included in this page, for example a link to dataset 1, but they are just placeholders pointing to a non-existent page. These should be modified to point to the actual location.**_
+Para cada dataset, también se proporcionan los links a los datasets de muestra en el directorio _**Datos**_.
 
 
-## Raw Data Sources
+_**Para facilitar la modificación de este reporte, los links de marcador de posición se incluyen en esta página, por ejemplo, un enlace al dataset 1, pero son solo marcadores de posición que apuntan a una página que no existe. Deben modificarse para que apunten a la ubicación real.**_
 
 
-| Dataset Name | Original Location   | Destination Location  | Data Movement Tools / Scripts | Link to Report |
+## Fuentes de datos sin procesar
+
+| Nombre del Dataset | Ubicación Origen   | Ubicación Destino  | Herramienta de movimiento de datos / Scripts | Link al Reporte |
 | ---:| ---: | ---: | ---: | -----: |
-| Dataset 1 | Brief description of its orignal location | Brief description of its destination location | [script1.py](link/to/python/script/file/in/Code) | [Dataset 1 Report](link/to/report1)|
-| Dataset 2 | Brief description of its orignal location | Brief description of its destination location | [script2.R](link/to/R/script/file/in/Code) | [Dataset 2 Report](link/to/report2)|
+| Dataset 1 | Breve descripción de su ubicación de origen | Breve descripción de su ubicación de destino | [script1.py](link/to/python/script/file/in/Code) | [Reporte Dataset 1](link/to/report1)|
+| Dataset 2 | Breve descripción de su ubicación de origen | Breve descripción de su ubicación de destino | [script2.R](link/to/R/script/file/in/Code) | [Reporte Dataset 2](link/to/report2)|
 
+* Resúmen del Dataset1. <Proporcione un breve resumen de los datos, por ejemplo, cómo acceder a los datos. Debe haber información más detallada en el Reporte Dataset1.>
+* Resúmen del Dataset2. <Proporcione un breve resumen de los datos, por ejemplo, cómo acceder a los datos. Debe haber información más detallada en el Reporte Dataset2.> 
 
-* Dataset1 summary. <Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset1 Report.>
-* Dataset2 summary. <Provide brief summary of the data, such as how to access the data. More detailed information should be in the Dataset2 Report.> 
+## Fuentes de datos procesadas
 
-## Processed Data
-| Processed Dataset Name | Input Dataset(s)   | Data Processing Tools/Scripts | Link to Report |
+| Nombre del Dataset | Dataset(s) origen   | Herramienta de Procesamiento/Scripts | Link al Reporte |
 | ---:| ---: | ---: | ---: | 
-| Processed Dataset 1 | [Dataset1](link/to/dataset1/report), [Dataset2](link/to/dataset2/report) | [Python_Script1.py](link/to/python/script/file/in/Code) | [Processed Dataset 1 Report](link/to/report1)|
-| Processed Dataset 2 | [Dataset2](link/to/dataset2/report) |[script2.R](link/to/R/script/file/in/Code) | [Processed Dataset 2 Report](link/to/report2)|
+| Dataset 1 Procesado | [Dataset1](link/to/dataset1/report), [Dataset2](link/to/dataset2/report) | [Python_Script1.py](link/to/python/script/file/in/Code) | [Reporte Dataset 1 Procesado](link/to/report1)|
+| Dataset 2 Procesado | [Dataset2](link/to/dataset2/report) |[script2.R](link/to/R/script/file/in/Code) | [Reporte Dataset 2 Procesado](link/to/report2)|
 
-* Processed Data1 summary. <Provide brief summary of the processed data, such as why you want to process data in this way. More detailed information about the processed data should be in the Processed Data1 Report.>
-* Processed Data2 summary. <Provide brief summary of the processed data, such as why you want to process data in this way. More detailed information about the processed data should be in the Processed Data2 Report.> 
+* Resúmen del Dataset1 Procesado. <Proporcione un breve resumen de los datos procesados, como por qué desea procesar los datos de esta manera. La información más detallada sobre los datos procesados debe estar en el Reporte Dataset1 Procesado.>
+* Resúmen del Dataset2 Procesado. <Proporcione un breve resumen de los datos procesados, como por qué desea procesar los datos de esta manera. La información más detallada sobre los datos procesados debe estar en el Reporte Dataset2 Procesado.> 
 
-## Feature Sets
+## Conjuntos de Features
 
-| Feature Set Name | Input Dataset(s)   | Feature Engineering Tools/Scripts | Link to Report |
+| Nombre del conjunto de features | Dataset(s) origen  | Herramienta de ingeniería de Feature/Scripts | Link al Reporte |
 | ---:| ---: | ---: | ---: | 
-| Feature Set 1 | [Dataset1](link/to/dataset1/report), [Processed Dataset2](link/to/dataset2/report) | [R_Script2.R](link/to/R/script/file/in/Code) | [Feature Set1 Report](link/to/report1)|
-| Feature Set 2 | [Processed Dataset2](link/to/dataset2/report) |[SQL_Script2.sql](link/to/sql/script/file/in/Code) | [Feature Set2 Report](link/to/report2)|
+| Feature Set 1 | [Dataset1](link/to/dataset1/report), [Dataset2 Procesado](link/to/dataset2/report) | [R_Script2.R](link/to/R/script/file/in/Code) | [Reporte Feature Set1](link/to/report1)|
+| Feature Set 2 | [Dataset2 Procesado](link/to/dataset2/report) |[SQL_Script2.sql](link/to/sql/script/file/in/Code) | [Reporte Feature Set2](link/to/report2)|
 
-* Feature Set1 summary. <Provide detailed description of the feature set, such as the meaning of each feature. More detailed information about the feature set should be in the Feature Set1 Report.>
-* Feature Set2 summary. <Provide detailed description of the feature set, such as the meaning of each feature. More detailed information about the feature set should be in the Feature Set2 Report.> 
+* Resúmen de Feature Set1. <Proporcione una descripción detallada del conjunto de features, como el significado de cada feature. La información más detallada sobre el conjunto de features debe estar en el Reporte Feature Set1.>
+* Resúmen de Feature Set2. <Proporcione una descripción detallada del conjunto de features, como el significado de cada feature. La información más detallada sobre el conjunto de features debe estar en el Reporte Feature Set2.>
