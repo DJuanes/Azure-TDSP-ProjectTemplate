@@ -7,4 +7,4 @@ Estos pueden ser:
 3. Información obtenida del propietario del negocio o cliente sobre el proyecto
 4. Documentos y presentaciones preparados para compartir información sobre el proyecto
 
-En esta carpeta tenemos las plantillas para el chater del proyecto y el informe de salida.
+En esta carpeta tenemos las plantillas para el charter del proyecto y el informe de salida.
