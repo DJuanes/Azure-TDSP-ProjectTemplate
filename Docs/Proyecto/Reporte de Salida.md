@@ -1,4 +1,4 @@
-# Informe de salida del proyecto <X> para el cliente <Y>
+# Reporte de salida del proyecto <X> para el cliente <Y>
 
 Instrucciones: Plantilla para criterios de salida para proyectos de ciencia de datos. Este es un documento conciso que incluye una descripción general de todo el proyecto, incluidos los detalles de cada etapa y aprendizaje. Si una sección no es aplicable (por ejemplo, el proyecto no incluyó un modelo de ML), simplemente marque esa sección como "No aplicable". Longitud sugerida entre 5-20 páginas. El código debe estar dentro del repositorio de código (no en este documento).
 
