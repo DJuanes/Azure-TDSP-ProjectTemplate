@@ -6,11 +6,11 @@ Este documento proporciona las descripciones de los datos que proporciona el cli
 
 Si el cliente le proporciona los datos de un sistema de gestión de datos similar a una base de datos, también puede copiar y pegar el esquema de datos (instantánea) aquí. Si es necesario, proporcione también una breve descripción de cada columna después de la imagen instantánea, si dicha imagen no tiene dicha información.
 
-## <Nombre del Dataset 1 (de la base de datos)\>
+## <Nombre del Dataset 1 (de base de datos)\>
 
 _Ejemplo de imagen de esquema de datos cuando los datos son de Sql Server_
 
-![](data-dictionary-from-sql-table.PNG)
+![dataset 1 (de base de datos](data-dictionary-from-sql-table.png)
 
 ## <Nombre del Dataset 2 (dictionario en archivo Excel)\>
 
