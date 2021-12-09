@@ -4,4 +4,4 @@ Esta carpeta aloja todo el código para un proyecto de ciencia de datos. Tiene t
 
 1. Adquisición y comprensión de datos
 2. Modelado
-3. Despliegue
+3. Implementación
