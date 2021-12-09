@@ -1,0 +1,3 @@
+# Canalización de datos
+
+Describa la canalización de datos y proporcione un diagrama lógico. Enumere la frecuencia con la que se mueven los datos: real time/stream, near real time, por lotes con frecuencia, etc.
