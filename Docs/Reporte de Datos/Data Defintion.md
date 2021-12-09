@@ -1,8 +1,10 @@
-# Data and Feature Definitions
+# Definiciones de features y datos
 
-This document provides a central hub for the raw data sources, the processed/transformed data, and feature sets. More details of each dataset is provided in the data summary report. 
+Este documento proporciona un hub para las fuentes de datos sin procesar, los datos procesados/transformados y los conjuntos de features. Se proporcionan más detalles de cada dataset en el reporte de resumen de datos.
 
-For each data, an individual report describing the data schema, the meaning of each data field, and other information that is helpful for understanding the data is provided. If the dataset is the output of processing/transforming/feature engineering existing data set(s), the names of the input data sets, and the links to scripts that are used to conduct the operation are also provided. 
+Para cada dato, se proporciona un reporte individual que describe el esquema de datos, el significado de cada campo y cualquier otra información que sea útil para comprender los datos. Si el dataset es la salida de datasets existentes de procesamiento/transformación/features, también se proporcionan los nombres de los datasets de entrada y los links a los scripts que se utilizan para realizar la operación.
+
+Cuando corresponde, la utilidad Interactive Data Exploration, Analysis, and Reporting (IDEAR) desarrollada por Microsoft se aplica para explorar y visualizar los datos y generar el reporte de datos. Las instrucciones sobre cómo utilizar IDEAR se pueden encontrar [aquí]().
 
 When applicable, the Interactive Data Exploration, Analysis, and Reporting (IDEAR) utility developed by Microsoft is applied to explore and visualize the data, and generate the data report. Instructions of how to use IDEAR can be found [here](). 
 
