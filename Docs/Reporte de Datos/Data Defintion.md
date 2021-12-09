@@ -14,30 +14,30 @@ _**Para facilitar la modificación de este reporte, los links de marcador de pos
 
 ## Fuentes de datos sin procesar
 
-| Nombre del Dataset | Ubicación Origen   | Ubicación Destino  | Herramienta de movimiento de datos / Scripts | Link al Reporte |
+| Nombre del dataset | Ubicación origen   | Ubicación destino  | Herramienta de movimiento de datos / scripts | Link al reporte |
 | ---:| ---: | ---: | ---: | -----: |
 | Dataset 1 | Breve descripción de su ubicación de origen | Breve descripción de su ubicación de destino | [script1.py](link/to/python/script/file/in/Code) | [Reporte Dataset 1](link/to/report1)|
 | Dataset 2 | Breve descripción de su ubicación de origen | Breve descripción de su ubicación de destino | [script2.R](link/to/R/script/file/in/Code) | [Reporte Dataset 2](link/to/report2)|
 
-* Resúmen del Dataset1. <Proporcione un breve resumen de los datos, por ejemplo, cómo acceder a los datos. Debe haber información más detallada en el Reporte Dataset1.>
-* Resúmen del Dataset2. <Proporcione un breve resumen de los datos, por ejemplo, cómo acceder a los datos. Debe haber información más detallada en el Reporte Dataset2.> 
+* Resumen del Dataset1. <Proporcione un breve resumen de los datos, por ejemplo, cómo acceder a los datos. Debe haber información más detallada en el Reporte Dataset1.>
+* Resumen del Dataset2. <Proporcione un breve resumen de los datos, por ejemplo, cómo acceder a los datos. Debe haber información más detallada en el Reporte Dataset2.> 
 
 ## Fuentes de datos procesadas
 
-| Nombre del Dataset | Dataset(s) origen   | Herramienta de Procesamiento/Scripts | Link al Reporte |
+| Nombre del dataset | Dataset(s) origen   | Herramienta de procesamiento/scripts | Link al reporte |
 | ---:| ---: | ---: | ---: | 
 | Dataset 1 Procesado | [Dataset1](link/to/dataset1/report), [Dataset2](link/to/dataset2/report) | [Python_Script1.py](link/to/python/script/file/in/Code) | [Reporte Dataset 1 Procesado](link/to/report1)|
 | Dataset 2 Procesado | [Dataset2](link/to/dataset2/report) |[script2.R](link/to/R/script/file/in/Code) | [Reporte Dataset 2 Procesado](link/to/report2)|
 
-* Resúmen del Dataset1 Procesado. <Proporcione un breve resumen de los datos procesados, como por qué desea procesar los datos de esta manera. La información más detallada sobre los datos procesados debe estar en el Reporte Dataset1 Procesado.>
-* Resúmen del Dataset2 Procesado. <Proporcione un breve resumen de los datos procesados, como por qué desea procesar los datos de esta manera. La información más detallada sobre los datos procesados debe estar en el Reporte Dataset2 Procesado.> 
+* Resumen del Dataset1 Procesado. <Proporcione un breve resumen de los datos procesados, como por qué desea procesar los datos de esta manera. La información más detallada sobre los datos procesados debe estar en el Reporte Dataset1 Procesado.>
+* Resumen del Dataset2 Procesado. <Proporcione un breve resumen de los datos procesados, como por qué desea procesar los datos de esta manera. La información más detallada sobre los datos procesados debe estar en el Reporte Dataset2 Procesado.> 
 
 ## Conjuntos de Features
 
-| Nombre del conjunto de features | Dataset(s) origen  | Herramienta de ingeniería de Feature/Scripts | Link al Reporte |
+| Nombre del conjunto de features | Dataset(s) origen  | Herramienta de ingeniería de feature/scripts | Link al reporte |
 | ---:| ---: | ---: | ---: | 
 | Feature Set 1 | [Dataset1](link/to/dataset1/report), [Dataset2 Procesado](link/to/dataset2/report) | [R_Script2.R](link/to/R/script/file/in/Code) | [Reporte Feature Set1](link/to/report1)|
 | Feature Set 2 | [Dataset2 Procesado](link/to/dataset2/report) |[SQL_Script2.sql](link/to/sql/script/file/in/Code) | [Reporte Feature Set2](link/to/report2)|
 
-* Resúmen de Feature Set1. <Proporcione una descripción detallada del conjunto de features, como el significado de cada feature. La información más detallada sobre el conjunto de features debe estar en el Reporte Feature Set1.>
-* Resúmen de Feature Set2. <Proporcione una descripción detallada del conjunto de features, como el significado de cada feature. La información más detallada sobre el conjunto de features debe estar en el Reporte Feature Set2.>
+* Resumen de Feature Set1. <Proporcione una descripción detallada del conjunto de features, como el significado de cada feature. La información más detallada sobre el conjunto de features debe estar en el Reporte Feature Set1.>
+* Resumen de Feature Set2. <Proporcione una descripción detallada del conjunto de features, como el significado de cada feature. La información más detallada sobre el conjunto de features debe estar en el Reporte Feature Set2.>
