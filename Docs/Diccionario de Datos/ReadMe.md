@@ -14,4 +14,4 @@ _Ejemplo de imagen de esquema de datos cuando los datos son de Sql Server_
 
 ## <Nombre del Dataset 2 (dictionario en archivo Excel)\>
 
-[dataset 2 with dictionary in Excel](./Raw-Data-Dictionary.csv)
+[dataset 2 con dictionario en Excel](Raw-Data-Dictionary.csv)
